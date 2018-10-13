@@ -2,4 +2,5 @@
   (lib (name kbd)(type KiCad)(uri /home/yu/Documents/keyboard/kbd/kbd.pretty)(options "")(descr ""))
   (lib (name Keebio-Parts)(type KiCad)(uri /home/yu/Documents/keyboard/Keebio-Parts.pretty)(options "")(descr ""))
   (lib (name lib)(type KiCad)(uri ${KIPRJMOD}/lib.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri /home/yu/Documents/keyboard/keyboard_parts.pretty)(options "")(descr ""))
 )
